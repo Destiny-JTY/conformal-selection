@@ -1,0 +1,9 @@
+Score,Method,Weighted,FDP,Power,Nsel,seed,q,shift_type,shift_feature,c_thresh
+regression,wBH,Yes,0.75,0.013392857142857142,12,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,wCS.hete,Yes,0.0,0.05357142857142857,12,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,wCS.homo,Yes,0.0,0.05357142857142857,12,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,wCS.dtm,Yes,0.0,0.05357142857142857,12,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,uBH,No,0.0,0.0,0,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,uCS.hete,No,0.0,0.0,0,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,uCS.homo,No,0.0,0.0,0,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999
+regression,uCS.dtm,No,0.0,0.0,0,14,0.1,1,MedInc+AveBedrms+HouseAge+Population,2.224599999999999

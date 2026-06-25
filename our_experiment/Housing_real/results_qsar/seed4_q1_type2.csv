@@ -1,0 +1,9 @@
+Score,Method,Weighted,FDP,Power,Nsel,seed,q,shift_type,shift_feature,c_thresh
+regression,wBH,Yes,0.6764705882352942,0.0873015873015873,68,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,wCS.hete,Yes,0.029411764705882353,0.2619047619047619,68,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,wCS.homo,Yes,0.029411764705882353,0.2619047619047619,68,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,wCS.dtm,Yes,0.029411764705882353,0.2619047619047619,68,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,uBH,No,0.03389830508474576,0.2261904761904762,59,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,uCS.hete,No,0.03389830508474576,0.2261904761904762,59,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,uCS.homo,No,0.03389830508474576,0.2261904761904762,59,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
+regression,uCS.dtm,No,0.03389830508474576,0.2261904761904762,59,4,0.1,2,Latitude+Longitude+AveRooms+AveOccup,2.438
